@@ -28,6 +28,7 @@ It is similar to a linked list but with multiple levels, where each level is a s
 - **sample-output.txt**: Sample output of the program.
 - **skiplist.cpp**: Implementation of the Skiplist data structure.
 - **skiplist.h**: Header file for skiplist.cpp.
+- **DoublyAndCircularDoublyLinkedListsDiagram.jpg**: Unrelated diagram of a doubly and a circular doubly linked list.
 
 ## Building and Running
 
